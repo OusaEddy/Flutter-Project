@@ -32,4 +32,5 @@ Let readers save favourite stories
 Add a backend service to cache feeds and reduce repeated API calls
 Author
 
-Ousa Eddy Olivier IT graduate, Kabarak University GitHub: github.com/OusaEddy LinkedIn: linkedin.com/in/eddy-ousa-1a9284336
+Ousa Eddy Olivier IT graduate, Kabarak University
+LinkedIn: linkedin.com/in/eddy-ousa-1a9284336
